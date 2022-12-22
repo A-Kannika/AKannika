@@ -201,7 +201,7 @@ p {
 
 .portfolio .box-container .box {
         margin: 1rem;
-        height: 45rem;
+        height: 58rem;
         flex: 1 1 28rem;
         border-radius: .5rem;
         border: .1rem solid rgba(0, 0, 0, 0.2);
@@ -221,20 +221,20 @@ p {
 }
 
 .portfolio .box-container .box .info {
-        margin-top: 1rem;
+        margin-top: 1.3rem;
         align-content: center;
         align-items: center;
 }
 
 .portfolio .box-container .box h2 {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
         text-align: center;
         font-weight: bolder;
         color: var(--blue);
 }
 
 .portfolio .box-container .box h3 {
-        font-size: 1rem;
+        font-size: 1.5rem;
         text-align: center;
         font-weight: bolder;
         color: var(--pink);
@@ -242,7 +242,7 @@ p {
 }
 
 .portfolio .box-container .box p {
-        font-size: 1rem;
+        font-size: 1.5rem;
         padding: 1rem;
 }
 
