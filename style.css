@@ -290,7 +290,32 @@ p {
         text-align: center;  
 }
 
+#follow {
+        margin: .5rem;
+        width: 5rem;
+        height: 5rem;
+        align-content: center;
+        align-items: center;
+        border: none;
+        padding: 0;
+        margin-left: 1rem;
+        margin-bottom: 1rem;
+        overflow: hidden;
+        position: relative;
+}
 
+#follow:hover {
+        transform: scale(1.05);
+
+}
+
+#followme {
+        padding: 2rem;
+}
+
+#contactme {
+        padding-bottom: 2rem;
+}
 
 /* media requires */
 
