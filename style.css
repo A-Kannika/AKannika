@@ -166,7 +166,7 @@ p {
 }
 
 .skills .skills-box .title {
-        font-size: 2rem;
+        font-size: 3rem;
         color: #1E90FF;
         padding: 0.5rem 0;
         font-weight: bolder;
@@ -189,7 +189,7 @@ p {
 .skills .skills-box .os span {
         font-weight: bolder;
         color: var(--pink);
-        font-size: 1.5rem;
+        font-size: 2rem;
 }
 
 .portfolio {
