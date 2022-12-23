@@ -257,8 +257,8 @@ p {
 }
 
 #github{
-        width: 3rem;
-        height: 3rem;
+        width: 3.5rem;
+        height: 3.5rem;
         align-content: center;
         align-items: center;
         border: none;
@@ -267,6 +267,10 @@ p {
         margin-bottom: 1rem;
         overflow: hidden;
         position: relative;
+}
+
+#github:hover {
+        transform: scale(1.1);
 }
 
 .contact .contact-box {
@@ -305,7 +309,7 @@ p {
 }
 
 #follow:hover {
-        transform: scale(1.05);
+        transform: scale(1.1);
 
 }
 
